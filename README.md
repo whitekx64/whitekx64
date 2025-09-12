@@ -14,7 +14,7 @@ Python developer very cool beginner doing desktop stuff
 ---
 [![](https://visitcount.itsvg.in/api?id=whitekx&icon=0&color=0)](https://visitcount.itsvg.in)
                                                                       
-``                                                                           
+```                                                                       
                        ¨Õ›                          ¹’                     
                       ²Z  ÖC         •Rk         dÌ   %×                   
                       O^   ´yò       ç~:è     1Þ¬     o}                   
@@ -42,5 +42,5 @@ Python developer very cool beginner doing desktop stuff
                              ë                   Ù                         
                              }                   /                                                     
 
-``
+```
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
