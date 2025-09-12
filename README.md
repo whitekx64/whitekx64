@@ -15,32 +15,58 @@ Python developer very cool beginner doing desktop stuff
 [![](https://visitcount.itsvg.in/api?id=whitekx&icon=0&color=0)](https://visitcount.itsvg.in)
                                                                       
 ```                                                                       
-                       ¨Õ›                          ¹’                     
-                      ²Z  ÖC         •Rk         dÌ   %×                   
-                      O^   ´yò       ç~:è     1Þ¬     o}                   
-                     ´Ö      ¹è|*à&ÌúÔ{  kî 2µ¸       c}                   
-                     îï       ÏMy´        wÓ|         o}                   
-                     ò¡         ·î½<                  ô“                   
-                     ò÷                              –®                    
-                     ò!     §µôž         CÇ5žu…      Ó                     
-                     )µ    ð;  âç       ‚Mò   ë¦    á!                     
-                      Ÿ)  O‹  2ÆÆ       ¤ÆN   ´4   Š‘                      
-                  òÆÆRÞL  Ò   wÆÆ       —Æþ    4       Q                   
-                   –Mª    g    á‡             ¨¾    vÂ†                    
-                     ˜“Õ` >7“       ’         ˆˆˆ   ë´                     
-                      T¦  `         h‘  L           ’8                     
-                     yj5óLÍ      íïï‚<ì=     ˆµƒc“»ívj                     
-                     çj    os‡—VY1   ˜}%óyÙqœÀ                             
-                              wÀgÐÐÐÕp¶mæp¶¶¶N                             
-                         »v”  JŽ¶¶¶¶¶¶GAËÐÞbbd×                            
-                          ôk@hñŠ¶¶Ôppñ„´     ´Ú                            
-                            ÙÓ(               %n                           
-                           ×Ô                  Ú                           
-                           ¯¡¤¥’               „h                          
-                              ø                 ÿ´                         
-                             ‰r                 }ò                         
-                             ë                   Ù                         
-                             }                   /                                                     
-
+                            –                                             
+                           oÆf                                            
+       ~ÑèL                ”ëY®Í                 ^„”                      
+       Ùš  fÕ|              G— sB‰          ¨vÖÚ¥}“ê™                     
+      }Æ     cGÐ}  ¬LæÆ€ÙÙëMÆÆ    N(      îËÆ´      æ¹                    
+      xÆ        ’hmÆeº       zf    {Ú^ ´áÆx         æ­                    
+      œ1            ‚|Úøv            ÷ÿæú           æ¹                    
+     ‘B†                ÷P                          æ¹                    
+      E[                                           ˆæ¹                    
+     %Ù                                            ðÀ´                    
+     %Þ        ÒNŠâh¨              „|÷‚            Ú4                     
+     %Þ      ¬E9   üÆh          cmßl–ºjf8Ì         âf                     
+      g{     ÚÚ   †ÆÆÆÙ        d#   6áv   š)      >Æ”                     
+      Ž†    ôh    ÆÆÆÆÙ            hÆÆÆK   Ú3     >M                      
+ vYÚNÆÇu    E¦   9ÆÆÆÆÖ           ¹BÆÆÆ8    Æ‘  ŠxqÆ2k‡                   
+ –ÿV              ÆÆÆÆ            ¹æÆÆÆn    Æ’       hœ                   
+   «4Ô/            ¹     ¹|’        @pÖ“    ¤     [hÆh´                   
+      g×                 NÆBeµ(                   fx                      
+     ƒNˆ                                           ½#^                    
+     Ú½                 : îž¬  ÍÆ;                  Lh                    
+    ‡Ò  <ìYX;           5#È“¬§QÆx             4V4#þÆ®²                    
+     Vkkc N8FBÈN1¨                    c½ÆØÆÆsk@                           
+          :kî    ?                      /µœK                              
+            ÿMª                         æÏ›                               
+         <œÈI                             &ú                              
+        vÆj’†¦                        WâdËÆQð                             
+          ’qW?                             äþ#ä^                          
+        ¨&À†                                   :oÓÚò—                     
+       áÆc                                          «fä                   
+     òÆL                                               BI                 
+   |ÀEˆ                                –Æ‘             ŸE›                
+  ¦Æl                                   nâ           3Ee«         áÐƒ     
+  ÓË          —Æœˆ                       ÕQYÑÆÆÆÆÆÑÈz»          :ÕÚ|Ó´    
+  4f     :<§ppfêÖ                         ®)                  ïÞŠz ¸ÿ¬c   
+   såÃÆèfaªˆ   èC                         zU               ƒèÆ‰    ºNÃŠÞ› 
+            ”º Þ@                         ~#‚;zú&úú&úÙØMMèV@       ºÆÑ Ú< 
+        ~ñÆâY} Ö@                          ÞÆC„                    ºË{ ïñ 
+       7Æs    »ÆC                           Æ¹                         <F 
+      {Æ<     {Ê«           ¬Æ…             ›Õ‘                        Úï 
+      nÆ      (q            /Æ†k             ½y                        Š< 
+      Ž?      (q            sÆ Õ„             ¥+                      uÓ  
+      Ž[      +q            ø† £Ó             |W                    ´Ùø‘  
+      ë@      {q            Š¦  ëï             |æ                  ¬qY    
+      }Æ      RÕ           v¶   ~Æ              LŸ               ®ØÒ      
+       u€²    Ëù           Ù¥    …8’             žÌ           ¦ßmj        
+        ¹eÐ;  È/           ë¬     |q¹            ‘è›     ìÇFæš‡:          
+              M/         ®Æß´      ˆã             nÆQÂZ¬«¡                
+             næˆ          #dùTTf´     …´          ;N¬                     
+             ôœ          LÆ¬          ´îMP?       <Æ&                     
+             úÖ         ÷ÆT               ºÓE¥hhhPÂa                      
+             2Ó        ’Õè                                                
+              ;KÚw  †5ÿÆu                                                 
+                  ‰‡½z                                                    
 ```
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
